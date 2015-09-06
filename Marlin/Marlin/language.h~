@@ -41,7 +41,7 @@
                 #if defined(RAPIDBOT2)
                     #define MACHINE_NAME "RapidBot2"
                 #elif defined(RAPIDBOT3)
-                    #define MACHINE_NAME "SPARIJBot"
+                    #define MACHINE_NAME "RapidBot3"
                 #elif defined(PLUSBOT)
                     #define MACHINE_NAME "PlusBot"
                 #elif defined(RAPIDBOTMEGA)
